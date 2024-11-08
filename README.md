@@ -9,7 +9,7 @@
    ```bash
    localStorage.getItem('userId')
    ```
-    With proxy, could be go to [here](https://quyetproxy.com/) to buy with price 2000 vnd.
+    With proxy, You can buy it [here](https://quyetproxy.com/) for 2000 VND/1day to trial.
     After bought ip will ip:port:username:password convert to http://username:password@ip:port
 
 3. Install package
